@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="1ffmpegDemo"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/xhw/Desktop/ffmpeg/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/xhw/Desktop/ffmpeg/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/xhw/Desktop/ffmpeg/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/xhw/Desktop/ffmpeg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/xhw/Desktop/ffmpeg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/xhw/Desktop/ffmpeg/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/xhw/Desktop/ffmpeg/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/xhw/Desktop/ffmpeg/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/xhw/Desktop/ffmpeg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/xhw/Desktop/ffmpeg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/xhw/Desktop/ffmpeg/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/xhw/Desktop/ffmpeg/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/xhw/Desktop/ffmpeg/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/xhw/Desktop/ffmpeg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/xhw/Desktop/ffmpeg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1ffmpegDemo">
+				<Option output="/home/xhw/Desktop/ffmpeg/bin/1ffmpegDemo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/xhw/Desktop/ffmpeg/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/xhw/Desktop/ffmpeg/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/xhw/Desktop/ffmpeg/cmake-build-debug/Makefile&quot;  VERBOSE=1 1ffmpegDemo"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/xhw/Desktop/ffmpeg/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/xhw/Desktop/ffmpeg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/xhw/Desktop/ffmpeg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1ffmpegDemo/fast">
+				<Option output="/home/xhw/Desktop/ffmpeg/bin/1ffmpegDemo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/xhw/Desktop/ffmpeg/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/xhw/Desktop/ffmpeg/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/xhw/Desktop/ffmpeg/cmake-build-debug/Makefile&quot;  VERBOSE=1 1ffmpegDemo/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/xhw/Desktop/ffmpeg/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/xhw/Desktop/ffmpeg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/xhw/Desktop/ffmpeg/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/xhw/Desktop/ffmpeg/src/main.cpp">
+			<Option target="1ffmpegDemo"/>
+		</Unit>
+		<Unit filename="/home/xhw/Desktop/ffmpeg/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

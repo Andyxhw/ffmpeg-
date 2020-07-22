@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1ffmpegDemo.dir/src/main.cpp.o  -o ../bin/1ffmpegDemo   -L/home/xhw/Desktop/ffmpeg/lib  -Wl,-rpath,/home/xhw/Desktop/ffmpeg/lib -lpthread -lavformat -lavcodec -lavdevice -lavfilter -lavutil -lswscale -lswresample 

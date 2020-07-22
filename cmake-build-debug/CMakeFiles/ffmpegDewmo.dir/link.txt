@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ffmpegDewmo.dir/src/main_.cpp.o  -o ../bin/ffmpegDewmo   -L/home/xhw/Desktop/ffmpeg/lib  -Wl,-rpath,/home/xhw/Desktop/ffmpeg/lib -lpthread -lavformat -lavcodec -lavdevice -lavfilter -lavutil -lswscale -lswresample 

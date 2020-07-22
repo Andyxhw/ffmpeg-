@@ -1,0 +1,3 @@
+/home/xhw/Desktop/ffmpeg/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/xhw/Desktop/ffmpeg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/xhw/Desktop/ffmpeg/cmake-build-debug/CMakeFiles/1ffmpegDemo.dir
